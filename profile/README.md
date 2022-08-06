@@ -11,3 +11,10 @@ Welcome to GitHub of PyThaiNLP!
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
+
+**Fellow**
+- Website: [pythainlp.github.io](https://pythainlp.github.io/)
+- Facebook: [PyThaiNLP](https://www.facebook.com/pythainlp/)
+- Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
+- Mastodon: [@pythainlp@fosstodon.org](https://fosstodon.org/web/@pythainlp)
+- Matrix: [#thainlp:matrix.org](https://matrix.to/#/#thainlp:matrix.org)
