@@ -18,3 +18,5 @@ Welcome to GitHub of PyThaiNLP!
 - Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
 - Mastodon: [@pythainlp@fosstodon.org](https://fosstodon.org/web/@pythainlp)
 - Matrix: [#thainlp:matrix.org](https://matrix.to/#/#thainlp:matrix.org)
+- Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
+- YouTube: [@PyThaiNLP](https://www.youtube.com/@pythainlp)
