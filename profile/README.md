@@ -13,7 +13,7 @@ Welcome to GitHub of PyThaiNLP!
 -->
 
 **Fellow**
-- Website: [pythainlp.github.io](https://pythainlp.github.io/)
+- Website: [pythainlp.org](https://pythainlp.org/)
 - Facebook: [PyThaiNLP](https://www.facebook.com/pythainlp/)
 - Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
 - Mastodon: [@pythainlp@fosstodon.org](https://fosstodon.org/web/@pythainlp)
