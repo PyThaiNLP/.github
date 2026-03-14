@@ -1,6 +1,10 @@
 ![](https://avatars.githubusercontent.com/u/32934255?s=150&v=4)
 
-Welcome to GitHub of PyThaiNLP!
+# PyThaiNLP Project
+
+> Open software project for Thai language processing / โครงการซอฟต์แวร์เปิดด้านการประมวลผลภาษาไทย
+
+Welcome to GitHub of PyThaiNLP Project!
 <!--
 
 **Here are some ideas to get you started:**
@@ -20,3 +24,5 @@ Welcome to GitHub of PyThaiNLP!
 - Matrix: [#thainlp:matrix.org](https://matrix.to/#/#thainlp:matrix.org)
 - Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
 - YouTube: [@PyThaiNLP](https://www.youtube.com/@pythainlp)
+
+We build Thai NLP.
