@@ -16,7 +16,7 @@ Welcome to GitHub of PyThaiNLP Project!
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-**Fellow**
+**Follow**
 - Website: [pythainlp.org](https://pythainlp.org/)
 - Facebook: [PyThaiNLP](https://www.facebook.com/pythainlp/)
 - Twitter: [PyThaiNLP](https://twitter.com/pythainlp/)
